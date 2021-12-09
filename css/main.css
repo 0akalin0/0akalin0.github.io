@@ -1153,16 +1153,16 @@ pre code {
 }
 .header-inner {
   margin: 0 auto;
-  width: calc(100% - 20px);
+  width: 80%;
 }
 @media (min-width: 1200px) {
   .header-inner {
-    width: 1160px;
+    width: 80%;
   }
 }
 @media (min-width: 1600px) {
   .header-inner {
-    width: 73%;
+    width: 80%;
   }
 }
 .site-brand-container {
@@ -1595,16 +1595,16 @@ pre code {
   flex-direction: column;
   justify-content: center;
   margin: 0 auto;
-  width: calc(100% - 20px);
+  width: 80%;
 }
 @media (min-width: 1200px) {
   .footer-inner {
-    width: 1160px;
+    width: 80%;
   }
 }
 @media (min-width: 1600px) {
   .footer-inner {
-    width: 73%;
+    width: 80%;
   }
 }
 .use-motion .footer {
@@ -2495,16 +2495,16 @@ ul.breadcrumb li:last-child {
   display: flex;
   justify-content: space-between;
   margin: 0 auto;
-  width: calc(100% - 20px);
+  width: 80%;
 }
 @media (min-width: 1200px) {
   .main {
-    width: 1160px;
+    width: 80%;
   }
 }
 @media (min-width: 1600px) {
   .main {
-    width: 73%;
+    width: 80%;
   }
 }
 @media (max-width: 991px) {
